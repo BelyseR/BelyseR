@@ -1,6 +1,11 @@
-👋 Hi, I’m Belyse Rugangazi
+## Hi there, 
+
+I’m Belyse Rugangazi
+
 👀 I’m interested in Cybersecurity and Machine Learning
+
 🌱 I’m currently working on Large Language Models(LLMs) applications in security
+
 💞 I’m looking to collaborate on security and machine learning projects!!
 <!--
 **BelyseR/BelyseR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
